@@ -1,5 +1,5 @@
 /**
-  * Fizz Buzz Using Scala Streams
+  * Fizz Buzz Using Scala 3 Lazy List which have replaced Scala 2 Streams
   */
 object S3LazyList extends App {
 
